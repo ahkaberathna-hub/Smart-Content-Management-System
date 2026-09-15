@@ -9,7 +9,7 @@ Built as an MSc dissertation project for the Christopher Nieper Foundation
 
 ## Demo
 
-[Watch the full walkthrough (demo.mp4)](Demo.mp4) — upload →
+[Watch the full walkthrough (demo.mp4)] — upload →
 automatic transcription/OCR/metadata generation → dashboard → search.
 
 > **Note:** This demo uses sample/placeholder data (test files and a public
