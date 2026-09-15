@@ -4,8 +4,6 @@ A Streamlit-based content management system for local journalism that
 automatically enriches uploaded media (video, images, documents) with
 machine-generated metadata — transcripts, OCR text, summaries, locations,
 and speaker tags — so archives become searchable without manual tagging.
-Built as an MSc dissertation project for the Christopher Nieper Foundation
-(Spirit of Alfreton Community Project).
 
 ## Demo
 
@@ -113,7 +111,7 @@ internet connection.
 
 ## Files
 
-- `demo.mp4` — walkthrough of the working system
+- `demo.m4v`,`demo.gif`  — walkthrough of the working system
 - `README.md` — this file
 - Application code (`app.py`, `config.py`, `db.py`, `models.py`,
   `search_engine.py`, `ingestion.py`, `ui_components.py`, `ui_theme.py`,
